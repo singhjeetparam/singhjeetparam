@@ -1,7 +1,7 @@
 Hi 👋 My name is Paramjeet Singh
 ================================
 
-Full Stack Web Developer
+Full Stack Web Developerr
 ------------------------
 
 * 🌍  I'm based in India
